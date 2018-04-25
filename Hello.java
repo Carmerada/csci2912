@@ -10,7 +10,7 @@ import java.util.Scanner;
 * ***********************/
 public class Hello {
 public static void main(String[] args) {
-    greeting("Hello");
+    greeting("Goodbye");
 } // end of main()
 public static void greeting(String msg)
 {
